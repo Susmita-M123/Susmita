@@ -1,5 +1,5 @@
 # Get the number from the user
-number = int(input("Enter a number to generate its multiplication table: "))
+number = int(input("Enter a number to generate its multiplication table: ")) [mr. x please corerct this part]
 
 print(f"Multiplication table for {number}:")
 for i in range(1, 11):
